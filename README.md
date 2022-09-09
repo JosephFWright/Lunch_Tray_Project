@@ -26,3 +26,8 @@ Tips
 
 - Use the provided tests to ensure your app is running as expected
 - DO NOT ALTER THE PROVIDED TESTS
+----------------------------------
+
+Completed 9/9/22
+ - I had to alter NavigationTests to fix an error the starter package inherits. 
+   - the startOrder fragment is identified as startOrderFragment and not startOrder
